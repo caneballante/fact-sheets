@@ -1,0 +1,320 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Roman
+FamilyName:Times
+StyleName:Regular
+MenuName:Times
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times Roman
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:13494
+FileLength:1743667
+FileModTime:1393585676
+NameArray:0,Mac,4,Times Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Bold
+FamilyName:Times
+StyleName:Bold
+MenuName:Times
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times Bold
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:16697
+FileLength:1743667
+FileModTime:1393585676
+NameArray:0,Mac,4,Times Bold
+NameArray:0,Mac,4,Times Gras
+NameArray:0,Mac,4,Times Fett
+NameArray:0,Mac,4,Times grassetto
+NameArray:0,Mac,4,Times vet
+NameArray:0,Mac,4,Times Fet
+NameArray:0,Mac,4,Times Negrita
+NameArray:0,Mac,4,Times Fed
+NameArray:0,Mac,4,Times Carregado
+NameArray:0,Mac,4,Times Halvfet
+NameArray:0,Mac,4,Times lihava
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-Italic
+FamilyName:Times
+StyleName:Italic
+MenuName:Times
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:Times Italic
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:21585
+FileLength:1743667
+FileModTime:1393585676
+NameArray:0,Mac,4,Times Italic
+NameArray:0,Mac,4,Times Italique
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times corsivo
+NameArray:0,Mac,4,Times cursief
+NameArray:0,Mac,4,Times Kursiv
+NameArray:0,Mac,4,Times Cursiva
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times Itálico
+NameArray:0,Mac,4,Times kursiv
+NameArray:0,Mac,4,Times kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Times-BoldItalic
+FamilyName:Times
+StyleName:Bold Italic
+MenuName:Times
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Times Bold Italic
+WritingScript:Roman
+OutlineFileName:\Times.dfont
+DataFormat:sfntResource
+ResourceID:22219
+FileLength:1743667
+FileModTime:1393585676
+NameArray:0,Mac,4,Times Bold Italic
+NameArray:0,Mac,4,Times Gras italique
+NameArray:0,Mac,4,Times Fett Kursiv
+NameArray:0,Mac,4,Times grassetto corsivo
+NameArray:0,Mac,4,Times vet-cursief
+NameArray:0,Mac,4,Times Fet Kursiv
+NameArray:0,Mac,4,Times Negrita Cursiva
+NameArray:0,Mac,4,Times Fed kursiv
+NameArray:0,Mac,4,Times Carregado Itálico
+NameArray:0,Mac,4,Times Halvfet kursiv
+NameArray:0,Mac,4,Times lihava kursiivi
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Roman
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:0
+FileLength:1743667
+FileModTime:1393585676
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Bold
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:1
+FileLength:1743667
+FileModTime:1393585676
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-Italic
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:2
+FileLength:1743667
+FileModTime:1393585676
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Suitcase
+FontName:Times-BoldItalic
+OutlineFileName:\Times.dfont
+ResourceID:20
+MacStyle:3
+FileLength:1743667
+FileModTime:1393585676
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-Black
+FamilyName:Univers 75 Black
+StyleName:Regular
+MenuName:Univers 75 Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Univers 75 Black
+WritingScript:Roman
+OutlineFileName:\Univers-Black 2.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27780
+FileModTime:1199884535
+NameArray:0,Mac,4,Univers 75 Black
+NameArray:0,Win,1,Univers 75 Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-BoldOblique
+FamilyName:Univers 65
+StyleName:Bold Italic
+MenuName:Univers 65
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:Univers 65 Bold Oblique
+WritingScript:Roman
+OutlineFileName:\Univers-BoldOblique.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27988
+FileModTime:1199884543
+NameArray:0,Mac,4,Univers 65 Bold Oblique
+NameArray:0,Win,1,Univers 65
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-Condensed
+FamilyName:Univers 57 Condensed
+StyleName:Regular
+MenuName:Univers 57 Condensed
+StyleBits:0
+WeightClass:500
+WidthClass:3
+AngleClass:0
+FullName:Univers 57 Condensed
+WritingScript:Roman
+OutlineFileName:\Univers-Condensed.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23544
+FileModTime:1199884582
+NameArray:0,Mac,4,Univers 57 Condensed
+NameArray:0,Win,1,Univers 57 Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-CondensedBold
+FamilyName:Univers 67 Condensed
+StyleName:Bold
+MenuName:Univers 67 Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Univers 67 Condensed Bold
+WritingScript:Roman
+OutlineFileName:\Univers-CondensedBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:24520
+FileModTime:1199884584
+NameArray:0,Mac,4,Univers 67 Condensed Bold
+NameArray:0,Win,1,Univers 67 Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-CondensedLight
+FamilyName:Univers 47 Condensed Light
+StyleName:Regular
+MenuName:Univers 47 Condensed Light
+StyleBits:0
+WeightClass:300
+WidthClass:3
+AngleClass:0
+FullName:Univers 47 Condensed Light
+WritingScript:Roman
+OutlineFileName:\Univers-CondensedLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:23940
+FileModTime:1199884590
+NameArray:0,Mac,4,Univers 47 Condensed Light
+NameArray:0,Win,1,Univers 47 Condensed Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-Light
+FamilyName:Univers 45 Light
+StyleName:Regular
+MenuName:Univers 45 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Univers 45 Light
+WritingScript:Roman
+OutlineFileName:\Univers-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25444
+FileModTime:1199884546
+NameArray:0,Mac,4,Univers 45 Light
+NameArray:0,Win,1,Univers 45 Light
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Wingdings-Regular
+FamilyName:Wingdings
+StyleName:Regular
+MenuName:Wingdings
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Wingdings
+WritingScript:Roman
+OutlineFileName:\Wingdings.ttf
+DataFormat:sfntData
+FileLength:83496
+FileModTime:1333324800
+NameArray:0,Mac,4,Wingdings
+NameArray:0,Win,1,Wingdings
+%EndFont
+

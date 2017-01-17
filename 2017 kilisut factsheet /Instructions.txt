@@ -1,0 +1,105 @@
+ADOBE INDESIGN PRINTING INSTRUCTIONS FOR SERVICE PROVIDER REPORT
+
+PUBLICATION NAME: 2017 kilisut factsheet.indd
+
+PACKAGE DATE: 12/16/16 12:57 AM
+Creation Date: 12/16/16
+Modification Date: 12/16/16
+
+CONTACT INFORMATION
+
+Company Name: 
+Contact: 
+Address: 
+
+
+
+
+
+Phone: 
+Fax: 
+Email: 
+
+SPECIAL INSTRUCTIONS AND OTHER NOTES
+
+
+
+
+
+
+External Plug-ins 1
+
+GridCalculator.InDesignPlugin
+
+
+Non Opaque Objects :None
+
+FONTS
+9 Fonts Used; 0 Missing, 1 Embedded, 0 Incomplete, 0 Protected
+
+Fonts Packaged
+- Name: Times-Roman; Type: TrueType, Status: OK
+- Name: Univers-Black; Type: OpenType Type 1, Status: OK
+- Name: Univers-BoldOblique; Type: OpenType Type 1, Status: OK
+- Name: Univers-Condensed; Type: Type 1, Status: Embedded
+- Name: Univers-Condensed; Type: OpenType Type 1, Status: OK
+- Name: Univers-CondensedBold; Type: OpenType Type 1, Status: OK
+- Name: Univers-CondensedLight; Type: OpenType Type 1, Status: OK
+- Name: Univers-Light; Type: OpenType Type 1, Status: OK
+- Name: Wingdings-Regular; Type: OpenType TrueType, Status: OK
+
+
+COLORS AND INKS
+4 Process Inks; 2 Spot Inks
+
+- Name and Type: Process Cyan; Angle: 75.000; Lines/Inch: 70.000
+- Name and Type: Process Magenta; Angle: 15.000; Lines/Inch: 70.000
+- Name and Type: Process Yellow; Angle: 0.000; Lines/Inch: 70.000
+- Name and Type: Process Black; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 2945 C; Angle: 45.000; Lines/Inch: 70.000
+- Name and Type: PANTONE 2945 U; Angle: 45.000; Lines/Inch: 70.000
+
+
+LINKS AND IMAGES
+(Missing & Embedded Links Only)
+Links and Images: 3 Links Found; 0 Modified, 0 Missing 0 Inaccessible
+Images: 0 Embedded, 2 use RGB color space
+
+
+PRINT SETTINGS
+PPD: Xerox WorkCentre 7845, (Xerox WorkCentre 7845 (9C:93:4E:32:C7:14))
+Printing To: Printer
+Number of Copies: 1
+Reader Spreads: No
+Even/Odd Pages: Both
+Pages: All
+Proof: No
+Tiling: None
+Scale: 100%, 100%
+Page Position: Center
+Print Layers: Visible & Printable Layers
+Printer's Marks: None
+Bleed: 0 in, 0 in, 0 in, 0 in
+Color: Composite CMYK
+Trapping Mode: None
+Send Image Data: Optimized Subsampling
+OPI/DCS Image Replacement: No
+Page Size: Letter
+Paper Dimensions: 8.5 in x 11 in
+Orientation: Portrait
+Negative: No
+Flip Mode: Off
+
+
+FILE PACKAGE LIST
+
+1. 2017 kilisut factsheet.indd; type: Adobe InDesign publication; size: 3420K
+2. 2017 kilisut factsheet.pdf; type: Adobe Acrobat Document; size: 2124K
+3. Times.dfont; type: Font file; size: 1702K
+4. Univers-Black 2.otf; type: Font file; size: 27K
+5. Univers-BoldOblique.otf; type: Font file; size: 27K
+6. Univers-Condensed.otf; type: Font file; size: 22K
+7. Univers-CondensedBold.otf; type: Font file; size: 23K
+8. Univers-CondensedLight.otf; type: Font file; size: 23K
+9. Univers-Light.otf; type: Font file; size: 24K
+10. Wingdings.ttf; type: Font file; size: 81K

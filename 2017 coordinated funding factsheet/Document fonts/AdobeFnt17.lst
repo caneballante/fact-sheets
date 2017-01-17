@@ -1,0 +1,96 @@
+%!Adobe-FontList 1.17
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+MenuName:Minion Pro
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Minion Pro
+WritingScript:Roman
+OutlineFileName:\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:218640
+FileModTime:1387296058
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-Black
+FamilyName:Univers 75 Black
+StyleName:Regular
+MenuName:Univers 75 Black
+StyleBits:0
+WeightClass:900
+WidthClass:5
+AngleClass:0
+FullName:Univers 75 Black
+WritingScript:Roman
+OutlineFileName:\Univers-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:27780
+FileModTime:1199884535
+NameArray:0,Mac,4,Univers 75 Black
+NameArray:0,Win,1,Univers 75 Black
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-CondensedBold
+FamilyName:Univers 67 Condensed
+StyleName:Bold
+MenuName:Univers 67 Condensed
+StyleBits:2
+WeightClass:700
+WidthClass:3
+AngleClass:0
+FullName:Univers 67 Condensed Bold
+WritingScript:Roman
+OutlineFileName:\Univers-CondensedBold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:24520
+FileModTime:1199884585
+NameArray:0,Mac,4,Univers 67 Condensed Bold
+NameArray:0,Win,1,Univers 67 Condensed
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Univers-Light
+FamilyName:Univers 45 Light
+StyleName:Regular
+MenuName:Univers 45 Light
+StyleBits:0
+WeightClass:300
+WidthClass:5
+AngleClass:0
+FullName:Univers 45 Light
+WritingScript:Roman
+OutlineFileName:\Univers-Light.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+FileLength:25444
+FileModTime:1199884546
+NameArray:0,Mac,4,Univers 45 Light
+NameArray:0,Win,1,Univers 45 Light
+%EndFont
+
